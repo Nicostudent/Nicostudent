@@ -60,6 +60,13 @@ const aboutMe = {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicostudent&langs_count=10&theme=tokyonight&layout=compact" alt="nicostudent :: Top Langs" /></p>
 
+---
+ Projects:
+ </br>
+  https://Mypc.vercel.app ---> final project of the bootcamp of soy henry, is a group project which we carried out to graduate. We use "react, redux, typescript, firebase,postgresql,express,node,css,material ui...
+ 
+ https://videogames-nu.vercel.app/ ----> individual project to move to the last stage of the project, we had 3 weeks to do it. Tools -> "react, redux, node, express,postgresql, vanila css...
+---
 
 
 - 🔭 I’m currently working on: "some projects to get a job",
