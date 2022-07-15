@@ -1,7 +1,19 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Nicostudent/Nicostudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const nicoStudent = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["app dev", "web dev", "tech"],
+    technologies:{
+        backEnd: ["nodejs", "express"],
+        fronEnd: ["react, redux"],
+        mobileApp: ["react native"],
+        database: ["mySql", "postgreSql],
+        devOps: ["heroku", "versel"],
+        misc: ["Firebase"]
+    },
+    architecture: ["Single page applications"],
+}
+[![nicostudent GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicostudent&show_icons=true&count_private=true)](https://github.com/nicostudent)
 
 Here are some ideas to get you started:
 
