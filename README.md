@@ -1,5 +1,11 @@
 Hi there 👋
+<div>
+ <p>
+I am junior-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 
+I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+</p>
+</div>
 const nicoStudent = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
@@ -13,9 +19,12 @@ const nicoStudent = {
     },
     architecture: ["Single page applications"],
 }
+
 [![nicostudent GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicostudent&show_icons=true&count_private=true)](https://github.com/nicostudent)
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) 
+
+
 |---|---|---|---|---|---|
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -37,3 +46,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⭐️ From [@nicostudent](https://github.com/nicostudent)
