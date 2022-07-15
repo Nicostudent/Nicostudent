@@ -6,40 +6,61 @@ I am junior-level Web developer able to build a Web presence from the ground up 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
 </div>
+
+---
+
 ```javascript
-const ashraf = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
-    technologies:{
-        backEnd: ["nodejs", "express"],
-        fronEnd: ["react"],
-        mobileApp: ["react native"],
-        database: ["postgreSql","mySql"],
-        devOps: ["heroku", "versel"],
-        misc: ["Firebase"]
-    },
-    architecture: ["microservices", "event-driven", "Single page applications"],
-}
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Kotlin],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Materialize", "Bootstrap", "Material Design", "sweetAlert"]
+      },
+      backEnd: {         
+         js: ["Node", "Express"],                  
+      },
+      databases: ["MongoDB", "mySQL", "postgreSql"],
+      mobile: ["Android", "IOS"]
+   },
+   currentOccupation: ["recently graduated from a bootcamp 'soyhenry.com', open for job opportunities"],
+   challenge: "I'm working towards being able to swimming in open water.",
+};
+```
+---
 
 [![nicostudent GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicostudent&show_icons=true&count_private=true)](https://github.com/nicostudent)
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) 
+---
+
+### Tech & Tools Preference
+
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/-npm-fff?style=flat&logo=npm&logoColor=white">
+
+---
 
 
-|---|---|---|---|---|---|
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/nicolasbrojo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@nicolasbrojo-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:rojo.nico@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rojo.nico@hotmail.com-blue?style=flat&logo=gmail"></a>
-</p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicostudent&langs_count=10&theme=tokyonight&layout=compact" alt="nicostudent :: Top Langs" /></p>
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on: "some projects to get a job",
 - 🌱 I’m currently learning: "react native",
@@ -48,4 +69,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about: "react",
 - 📫 How to reach me: ...
 -->
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nicolasbrojo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@nicolasbrojo-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:rojo.nico@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rojo.nico@hotmail.com-blue?style=flat&logo=gmail"></a>
+</p>
+
+---
+
 ⭐️ From [@nicostudent](https://github.com/nicostudent)
