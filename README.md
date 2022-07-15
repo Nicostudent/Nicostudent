@@ -6,18 +6,19 @@ I am junior-level Web developer able to build a Web presence from the ground up 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
 </div>
-const nicoStudent = {
+```javascript
+const ashraf = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
         backEnd: ["nodejs", "express"],
-        fronEnd: ["react, redux"],
+        fronEnd: ["react"],
         mobileApp: ["react native"],
-        database: ["mySql", "postgreSql],
+        database: ["postgreSql","mySql"],
         devOps: ["heroku", "versel"],
         misc: ["Firebase"]
     },
-    architecture: ["Single page applications"],
+    architecture: ["microservices", "event-driven", "Single page applications"],
 }
 
 [![nicostudent GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicostudent&show_icons=true&count_private=true)](https://github.com/nicostudent)
