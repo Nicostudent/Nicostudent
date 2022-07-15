@@ -5,7 +5,7 @@ I am junior-level Web developer able to build a Web presence from the ground up 
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
-<a href="https://portfolio-omega-steel-81.vercel.app/" target="_blank" >portfolio</a>
+<a href="https://portfolio-omega-steel-81.vercel.app/" target="_blank">portfolio</a>
 </div>
 
 ---
