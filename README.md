@@ -1,7 +1,7 @@
 Hi there 👋
 <div>
  <p>
-I am junior-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+I am a Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
@@ -16,17 +16,17 @@ I have excellent design & coding skills, as well as an ability to convert requir
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Kotlin],
+   code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React"],
-         css: ["Materialize", "Bootstrap", "Material Design", "sweetAlert"]
+         css: ["Tailwind css", "Bootstrap"]
       },
       backEnd: {         
          js: ["Node", "Express"],                  
       },
-      databases: ["MongoDB", "mySQL", "postgreSql"],
-      mobile: ["Android", "IOS"]
+      databases: ["postgreSql"],
+      mobile: ["React Native"]
    },
    currentOccupation: ["recently graduated from a bootcamp 'soyhenry.com', open for job opportunities"],
    challenge: "I'm working towards being able to swimming in open water.",
@@ -75,10 +75,8 @@ const aboutMe = {
 
 - 🔭 I’m currently working on: "some projects to get a job",
 - 🌱 I’m currently learning: "react native",
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with: "Anything related to what I am currently learning 😅",
 - 💬 Ask me about: "react",
-- 📫 How to reach me: ...
 -->
 
 <h3> 🤝🏻 Connect with Me </h3>
