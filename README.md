@@ -6,7 +6,7 @@ I am a Web developer able to build a Web presence from the ground up - from conc
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
 <p align="center">
-<a href="https://portfolio-omega-steel-81.vercel.app/" target="_blank">My Portfolio</a>
+<a href="https://nicorojo-portfolio.vercel.app/" target="_blank">My Portfolio</a>
 </p>
 
 </div>
