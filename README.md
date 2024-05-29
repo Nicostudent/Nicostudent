@@ -1,9 +1,7 @@
 Hi there 👋
 <div>
  <p>
-I am a Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
-
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+As a web developer with two years of hands-on experience, I specialize in crafting compelling online experiences from inception to execution. From conceptualization to navigation, layout, and coding, I possess a comprehensive skill set to bring digital visions to life.
 </p>
 <p align="center">
 <a href="https://nicorojo-portfolio.vercel.app/" target="_blank">My Portfolio</a>
@@ -28,8 +26,7 @@ const aboutMe = {
       databases: ["postgreSql"],
       mobile: ["React Native"]
    },
-   currentOccupation: ["recently graduated from a bootcamp 'soyhenry.com', open for job opportunities"],
-   challenge: "I'm working towards being able to swimming in open water.",
+   currentOccupation: ["workin part-time at orderix.co] 
 };
 ```
 ---
@@ -73,11 +70,7 @@ const aboutMe = {
 ---
 
 
-- 🔭 I’m currently working on: "some projects to get a job",
-- 🌱 I’m currently learning: "react native",
-- 🤔 I’m looking for help with: "Anything related to what I am currently learning 😅",
-- 💬 Ask me about: "react",
--->
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
